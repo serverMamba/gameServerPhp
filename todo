@@ -1,0 +1,22 @@
+__LINE__效率
+
+nginx是否需要ob_flush()后flush(), ob_flush()和exit()的搭配
+
+为了效率不用require/include(_once), 自己保证require/include不重复
+
+实践curl设置项含义
+
+---------
+notice -
+    写之前考虑效率
+
+
+-----
+待解决 -
+    多层时怎么方便的返回错误码, 比如svc->cls->dao, 还是说不需要
+    redis不像mysql那样作错误处理吗
+    redis不需要存aid吧
+
+---
+每日任务 -
+    gameServer 聊天 websocket搞定
