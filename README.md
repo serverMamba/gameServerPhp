@@ -1,2 +1,2 @@
 # gameServerPhp
-php开发的短连接卡牌手游服务端
+php版本的 短连接卡牌手游服务端框架
